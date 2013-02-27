@@ -5,3 +5,6 @@
 # and all you're interested in
 !.gitignore
 !.config/git/config
+
+# awesome configuration
+!.config/awesome/rc.lua
