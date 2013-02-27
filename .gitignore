@@ -1,0 +1,7 @@
+# first, ignore everything
+*
+# now, whitelist anything that's a directory
+!*/
+# and all you're interested in
+!.gitignore
+!.config/git/config
