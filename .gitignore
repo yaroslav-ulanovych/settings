@@ -3,7 +3,7 @@
 # now, whitelist anything that's a directory
 !*/
 # and all you're interested in
-!.gitignore
+!/.gitignore
 !.config/git/config
 
 # awesome configuration
