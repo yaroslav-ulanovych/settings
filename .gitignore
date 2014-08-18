@@ -8,3 +8,7 @@
 
 # awesome configuration
 !.config/awesome/rc.lua
+
+# sublime configs
+!.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap
+!.config/sublime-text-2/Packages/User/Preferences.sublime-settings
