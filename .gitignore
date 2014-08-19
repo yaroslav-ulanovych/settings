@@ -1,14 +1,17 @@
-# first, ignore everything
 *
-# now, whitelist anything that's a directory
-!*/
-# and all you're interested in
+
 !/.gitignore
-!.config/git/config
 
-# awesome configuration
-!.config/awesome/rc.lua
+!/.config/
 
-# sublime configs
-!.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap
-!.config/sublime-text-2/Packages/User/Preferences.sublime-settings
+!/.config/sublime-text-2/
+!/.config/sublime-text-2/Packages/
+!/.config/sublime-text-2/Packages/User/
+!/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap
+!/.config/sublime-text-2/Packages/User/Preferences.sublime-settings
+
+!/.config/git/
+!/.config/git/config
+
+!/.config/awesome/
+!/.config/awesome/rc.lua
