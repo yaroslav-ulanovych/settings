@@ -4,14 +4,27 @@
 
 !/.config/
 
+# sublime settings
 !/.config/sublime-text-2/
 !/.config/sublime-text-2/Packages/
 !/.config/sublime-text-2/Packages/User/
 !/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap
 !/.config/sublime-text-2/Packages/User/Preferences.sublime-settings
 
+# intellij idea settings
+!/.IdeaIC13/
+!/.IdeaIC13/config/
+!/.IdeaIC13/config/options/
+!/.IdeaIC13/config/options/editor.xml
+!/.IdeaIC13/config/options/keymap.xml
+!/.IdeaIC13/config/keymaps/
+!/.IdeaIC13/config/keymaps/my.xml
+
+
+# git settings
 !/.config/git/
 !/.config/git/config
 
+# awesome settings
 !/.config/awesome/
 !/.config/awesome/rc.lua
