@@ -38,6 +38,8 @@
 !/.IdeaIC13/config/options/keymap.xml
 !/.IdeaIC13/config/keymaps/
 !/.IdeaIC13/config/keymaps/my.xml
+!/.IdeaIC13/config/templates/
+!/.IdeaIC13/config/templates/surround.xml
 
 # git settings
 !/.config/git/
