@@ -1,12 +1,17 @@
+# ignore everything
 *
+# but listed below
 
 !/.gitignore
 
+# some top level folders
+!/bin/
+!/.config/
+
+# environment settings
 !/.env.default
 !/.path
 !/.profile
-
-!/.config/
 
 # sublime 2 settings
 !/.config/sublime-text-2/
@@ -39,6 +44,6 @@
 !/.config/awesome/
 !/.config/awesome/rc.lua
 
-#
-!/bin/
+# sbt
 !/bin/sbt
+!/bin/sbt-launch.jar
