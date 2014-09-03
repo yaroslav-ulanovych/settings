@@ -13,6 +13,9 @@
 !/.path
 !/.profile
 
+# sublime launch script
+!/bin/subl
+
 # sublime 2 settings
 !/.config/sublime-text-2/
 !/.config/sublime-text-2/Packages/
