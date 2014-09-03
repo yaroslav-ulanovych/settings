@@ -40,6 +40,8 @@
 !/.IdeaIC13/config/keymaps/my.xml
 !/.IdeaIC13/config/templates/
 !/.IdeaIC13/config/templates/surround.xml
+!/.IdeaIC13/config/codestyles/
+!/.IdeaIC13/config/codestyles/my.xml
 
 # git settings
 !/.config/git/
