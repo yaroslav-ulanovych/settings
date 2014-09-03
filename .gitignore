@@ -2,6 +2,10 @@
 
 !/.gitignore
 
+!/.env.default
+!/.path
+!/.profile
+
 !/.config/
 
 # sublime 2 settings

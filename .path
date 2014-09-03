@@ -1,0 +1,9 @@
+# supposed to construct path using environment variables from ~/.env and ~/.env.default
+export PATH=$DEX2JAR_HOME:\
+$ANDROID_HOME/platform-tools:\
+$ANDROID_HOME/tools:\
+$SCALA_HOME/bin:\
+$MAVEN_HOME/bin:\
+$JAVA_HOME/bin:\
+$HOME/bin:\
+$PATH
